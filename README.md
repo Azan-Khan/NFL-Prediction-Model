@@ -58,7 +58,4 @@ The project will be completed in the following order:
 - Seid Cubro
 - Azan Khan
 
-## Status
-
-Repository initialized. Documentation and notebook scaffolding are in place. Analysis has not started yet.
   
