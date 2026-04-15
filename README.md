@@ -33,6 +33,7 @@ NFL-Prediction-Model/
 ├── requirements.txt   # project dependencies
 ├── README.md
 └── .gitignore
+```
 
 ## Workflow
 
