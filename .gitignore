@@ -1,0 +1,32 @@
+# Raw data - never commit
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed data - keep this ignored unless professor explicitly wants outputs tracked
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+*.key
