@@ -54,9 +54,9 @@ The project will be completed in the following order:
 - Analytical decisions must be documented in markdown and in decisions.md.
 
 ## Team Members
-Andrew Blasko
-Seid Cubro
-Azan Khan
+- Andrew Blasko
+- Seid Cubro
+- Azan Khan
 
 ## Status
 
